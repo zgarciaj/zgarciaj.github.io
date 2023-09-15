@@ -1,5 +1,34 @@
 ---
-title: "About"
+title: "Meet Zeily"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zeily-l-g-j/?originalSubdomain=ca
+    - icon: github
+      text: Github
+      href: https://github.ubc.ca/zeilygar
 ---
 
-About this site 
+Zeily Garcia is a graduate student at UBC.
+
+## Education
+University of British Columbia  (2023 - present)
+
+Masters in Data Science
+
+-----------------------------
+
+Beedie School of Business  (2018 - 2022)
+
+Degree of Bachelor of Business Administration (Honours with Distinction)
+
+Management Information Systems, Marketing, & Strategic Analysis
+
+## Experience
+
+Almacenes Andrea | Strategic Analyst | 2022 - 2023
+
+Almacenes Andrea | Assistant Manager | 2017 - 2021
