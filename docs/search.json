@@ -2,8 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Meet Zeily",
     "section": "",
-    "text": "About this site"
+    "text": "Zeily Garcia is a graduate student at UBC."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Meet Zeily",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia (2023 - present)\nMasters in Data Science\n\nBeedie School of Business (2018 - 2022)\nDegree of Bachelor of Business Administration (Honours with Distinction)\nManagement Information Systems, Marketing, & Strategic Analysis"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Meet Zeily",
+    "section": "Experience",
+    "text": "Experience\nAlmacenes Andrea | Strategic Analyst | 2022 - 2023\nAlmacenes Andrea | Assistant Manager | 2017 - 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is the Website!",
+    "section": "",
+    "text": "This is the best Quarto website."
   }
 ]
